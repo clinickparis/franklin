@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class clean {
 	public static void main(String[] args) {
-		int[] arr = { 8, 6, 9, 5, 3, 7, 4, 20, 2 };
+		int[] arr = { 8, 6, 9, 5, 3, 7, 4, 116, 2 };
 		clean sorter = new clean();
 		sorter.sort(arr);
 	}
